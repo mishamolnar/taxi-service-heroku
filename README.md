@@ -22,9 +22,9 @@ The structure of the database can be seen below
 The project was created using these technologies:
 
 * Java 11
-* MySQL
+* MySQL, JDBC
 * Javax servlet API
-* Jstl
+* Jstl, JSP
 * Tomcat 9.0.50 (to run app locally)
   
 **Setup**
