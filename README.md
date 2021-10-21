@@ -1,6 +1,6 @@
-# taxi-admin-service
+# taxi-service
 
-### Hello, this is my project taxi service project for taxi drivers and administrators of taxi service.
+### Hello, this is my project taxi service project for taxi drivers of taxi service.
 ![img_1.png](img_1.png)
 
 #### General info
